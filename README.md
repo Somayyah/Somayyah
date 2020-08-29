@@ -1,19 +1,11 @@
 ### Hi there 👋
 
-I'm Somayyah, a software developer and DevOps engineer who's pasionate about linux. I'm here to give back to the development community that I love!!
+I'm Somayyah, a software developer and a DevOps engineer who's pasionate about linux, languages and art. 
+I'm here to give back to the development community that I love!!
 
 - 😄 Pronouns: She, Her.
-<!--
-**Somayyah/Somayyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning:
+  * Front-end development in React.js
+  * Google Cloud Platform
+  * Vim editor
+  * French
