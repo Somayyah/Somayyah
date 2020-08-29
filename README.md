@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Somayyah from :jordan:, a software developer and a DevOps engineer who's pasionate about linux, languages and art. 
+I'm Somayyah from :jordan:, a software developer and a DevOps engineer who's passionate about linux, languages and art. 
 I'm here to give back to the development community that I love!!
 
 - :hugs: Pronouns: She, Her
