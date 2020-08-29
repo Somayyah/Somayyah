@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Somayyah, a software developer and DevOps engineer who's pasionate about linux. I'm here to give back to the development community that I love!!
+
+- 😄 Pronouns: She, Her.
 <!--
 **Somayyah/Somayyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +14,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
