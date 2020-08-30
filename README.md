@@ -1,4 +1,4 @@
-### Hi there <p> <img width="20" src="https://github.com/Somayyah/Somayyah/blob/master/icon-2.8s-45px.gif?raw=true"> </p>
+### Hi there <br><p> <img width="20" src="https://github.com/Somayyah/Somayyah/blob/master/icon-2.8s-45px.gif?raw=true"> </p>
 
 I'm Somayyah from :jordan:, a software developer and a DevOps engineer who's passionate about linux, languages and art. 
 I'm here to give back to the development community that I love!!
