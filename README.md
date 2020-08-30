@@ -9,7 +9,7 @@ I'm here to give back to the development community that I love.
   * Google Cloud Platform :fire:
   * Vim editor :writing_hand:
   * French :fries:
-  
+<hr/>
 ##### Find me on:
   LinkedIn: :link:	https://www.linkedin.com/in/somayyah-mohammed-630a1a177/
   <br>Glitch: :musical_keyboard: https://glitch.com/@Somayyah
