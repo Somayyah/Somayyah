@@ -11,7 +11,7 @@ I'm here to give back to the development community that I love.
   * French :fries:
 - 👯 I’m looking to collaborate with other content creators
 
-<hr/><br>
+<hr/>
 
 ### Languages and Tools:
 
