@@ -28,6 +28,7 @@ I'm here to give back to the development community that I love.
 <img align="left" alt="Bash" width="26px" src="https://mpng.subpng.com/20180808/ytw/kisspng-bash-shell-script-bourne-shell-scripting-language-create-and-delete-files-and-folders-in-bash-from-5b6ab0e6d589e2.2952756215337187588747.jpg" />
 <img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg/1200px-Linux_Logo_in_Linux_Libertine_Font.svg.png" />
 <img align="left" alt="Python" width="26px" src="https://newhorizons.com.sg/wp-content/uploads/2019/04/python.png" />
+<img align="left" alt="Azure" width="26px" src="https://w7.pngwing.com/pngs/506/1012/png-transparent-microsoft-azure-cloud-computing-amazon-web-services-logo-cloud-computing-blue-angle-text.png" />
 <br><br>
 <hr/>
 
