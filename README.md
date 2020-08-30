@@ -7,7 +7,6 @@ I'm Somayyah from :jordan:, a software developer and a DevOps engineer who's pas
   * Google Cloud Platform :fire:
   * Vim editor :writing_hand:
   * French :fries:
-- 👯 I’m looking to collaborate with other content creators
 
 <hr/>
 
