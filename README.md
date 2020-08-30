@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there <p align="left">
+  <img width="600" src="https://github.com/Somayyah/Somayyah/blob/master/icon-2.8s-45px.gif?raw=true">
+</p>
 
 I'm Somayyah from :jordan:, a software developer and a DevOps engineer who's passionate about linux, languages and art. 
 I'm here to give back to the development community that I love!!
@@ -14,6 +16,4 @@ I'm here to give back to the development community that I love!!
   LinkedIn: :link:	https://www.linkedin.com/in/somayyah-mohammed-630a1a177/
   <br>Glitch: :musical_keyboard: https://glitch.com/@Somayyah
 
-<p align="center">
-  <img width="600" src="https://cdn.rawgit.com/transitive-bullshit/create-react-library/master/media/demo.svg">
-</p>
+
