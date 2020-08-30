@@ -1,4 +1,4 @@
-### Hi there <p align="left">
+### Hi there <p>
   <img width="20" src="https://github.com/Somayyah/Somayyah/blob/master/icon-2.8s-45px.gif?raw=true">
 </p>
 
