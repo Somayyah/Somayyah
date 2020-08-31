@@ -30,6 +30,9 @@ I'm Somayyah from :jordan:, a software developer and a DevOps engineer who's pas
 <img align="left" alt="Azure" width="26px" src="https://w7.pngwing.com/pngs/506/1012/png-transparent-microsoft-azure-cloud-computing-amazon-web-services-logo-cloud-computing-blue-angle-text.png" />
 <br><br>
 <hr/>
+### My dotfiles repo: 
+
+:zap: https://github.com/Somayyah/dotfiles :zap:
 
 ### Find me on:
   LinkedIn: :link:	https://www.linkedin.com/in/somayyah-mohammed-630a1a177/
