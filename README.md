@@ -31,7 +31,7 @@ I'm Somayyah from :jordan:, a software developer and a DevOps engineer who's pas
 <br><br>
 <hr/>
 
-### My dotfiles repo: <br>
+### My dotfiles: <br>
 
 :zap: https://github.com/Somayyah/dotfiles :zap:
 
