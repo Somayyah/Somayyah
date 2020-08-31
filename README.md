@@ -34,5 +34,8 @@ I'm Somayyah from :jordan:, a software developer and a DevOps engineer who's pas
 ### Find me on:
   LinkedIn: :link:	https://www.linkedin.com/in/somayyah-mohammed-630a1a177/
   <br>Glitch: :musical_keyboard: https://glitch.com/@Somayyah
+  <br>CodePen: :pen: https://codepen.io/somayyah/
+  <br>Hackerrank: https://www.hackerrank.com/Somayyah
+  <br>Exercism: https://exercism.io/profiles/Somayyah
 
 
