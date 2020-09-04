@@ -35,7 +35,7 @@ I'm Somayyah from :jordan:, a software developer and a DevOps engineer who's pas
 
 ### Programming languages PIE chart:
 
-
+<img width="200" src="https://github.com/Somayyah/Somayyah/blob/master/languagesPIEChart.png?raw=true">
 
 ### My dotfiles: <br>
 
