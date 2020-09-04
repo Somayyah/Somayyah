@@ -35,7 +35,6 @@ I'm Somayyah from :jordan:, a software developer and a DevOps engineer who's pas
 
 ### Programming languages PIE chart:
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?somayyah" frameborder="0"></iframe>
 
 
 ### My dotfiles: <br>
