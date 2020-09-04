@@ -4,9 +4,9 @@ I'm Somayyah from :jordan:, a software developer and a DevOps engineer who's pas
 
 - 🌱 I’m currently learning:
   * Front-end development in React.js :zap:
-  * TailwindCSS :wind:
+  * TailwindCSS :unicorn:
   * Google Cloud Platform :fire:
-  * Ansible :evil:
+  * Ansible :anguished:
   * Vim editor :writing_hand:
   * French :fries:
 
