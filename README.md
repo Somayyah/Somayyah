@@ -1,4 +1,4 @@
-<br><br><p> <img width="20" src="https://github.com/Somayyah/Somayyah/blob/master/icon-2.8s-45px.gif?raw=true"> <img width="20" src="https://github.com/Somayyah/Somayyah/blob/master/icon-2.8s-45px.gif?raw=true"> </p>
+<p> <img width="20" src="https://github.com/Somayyah/Somayyah/blob/master/icon-2.8s-45px.gif?raw=true"> <img width="20" src="https://github.com/Somayyah/Somayyah/blob/master/icon-2.8s-45px.gif?raw=true"> </p>
 
 I'm Somayyah from :jordan:, a software developer and a DevOps engineer who's passionate about linux, languages and art. 
 
@@ -36,10 +36,12 @@ I'm Somayyah from :jordan:, a software developer and a DevOps engineer who's pas
 ### Programming languages PIE chart:
 
 <img width="500" src="https://github.com/Somayyah/Somayyah/blob/master/languagesPIEChart.png?raw=true">
+<hr/>
 
 ### My dotfiles: <br>
 
 :zap: https://github.com/Somayyah/dotfiles :zap:
+<hr/>
 
 ### Find me on:
   LinkedIn: :link:	https://www.linkedin.com/in/somayyah-mohammed-630a1a177/
