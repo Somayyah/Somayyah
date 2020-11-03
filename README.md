@@ -4,6 +4,7 @@ I'm Somayyah from :jordan:, a software developer and a DevOps engineer who's pas
 
 - 🌱 I’m currently learning:
   * Front-end development in React.js :zap:
+  * NextJS :fire:
   * TailwindCSS :unicorn:
   * Svelte :fire:
   * Ansible :anguished:
