@@ -3,11 +3,10 @@
 I'm Sumaiia from :jordan:, a software developer and a DevOps engineer who's passionate about linux, languages and art. 
 
 - 🌱 I’m currently learning:
-  * Front-end development in React.js :zap:
+  * GraphQL :zap:
   * NextJS :fire:
-  * TailwindCSS :unicorn:
+  * Rust :unicorn:
   * Svelte :fire:
-  * Ansible :anguished:
   * French :fries:
 
 <hr/>
