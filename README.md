@@ -8,6 +8,7 @@ I'm Sumaiia from :jordan:, a software developer and a DevOps engineer who's pass
   * Rust :unicorn:
   * Svelte :fire:
   * French :fries:
+  * Chinese :fortune_cookie:
 
 <hr/>
 
