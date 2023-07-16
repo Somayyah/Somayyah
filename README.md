@@ -1,6 +1,6 @@
 <p> <img width="20" src="https://github.com/Somayyah/Somayyah/blob/master/icon-2.8s-45px.gif?raw=true"> <img width="20" src="https://github.com/Somayyah/Somayyah/blob/master/icon-2.8s-45px.gif?raw=true"> </p>
 
-I'm Sumaiia from :jordan:, a software developer and a DevOps engineer who's passionate about linux, languages and art. 
+I'm Sumaiia from 🇯🇴, a Network, security, DevOps engineer who's passionate about linux, languages and art. 
 
 - 🌱 I’m currently learning:
   * GraphQL :zap:
