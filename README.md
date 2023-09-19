@@ -3,10 +3,9 @@
 I'm Sumaiia from 🇯🇴, a Network, security, DevOps engineer who's passionate about linux, languages and art. 
 
 - 🌱 I’m currently learning:
-  * GraphQL :zap:
-  * NextJS :fire:
-  * Rust :unicorn:
-  * Svelte :fire:
+  * Azure Cloud AI and ML services :zap:
+  * DevOps :fire:
+  * CyberSecurity :unicorn:
   * French :fries:
   * Chinese :fortune_cookie:
 
@@ -40,13 +39,10 @@ I'm Sumaiia from 🇯🇴, a Network, security, DevOps engineer who's passionate
 <img width="500" src="https://github.com/Somayyah/Somayyah/blob/master/languagesPIEChart.png?raw=true">
 <hr/>
 
-### My dotfiles: <br>
-
-:zap: https://github.com/Somayyah/dotfiles :zap:
-<hr/>
-
 ### Find me on:
   LinkedIn: :link:	https://www.linkedin.com/in/somayyah-mohammed-630a1a177/
+  <br>My personal website and blog: https://www.untangling-the-spiders-web.com
+  <br>TryHackMe: https://tryhackme.com/p/waturiuiuiuizifa
   <br>Glitch: :musical_keyboard: https://glitch.com/@Somayyah
   <br>CodePen: :pen: https://codepen.io/somayyah/
   <br>Hackerrank: https://www.hackerrank.com/Somayyah
