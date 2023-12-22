@@ -40,8 +40,9 @@ I'm Sumaiia from 🇯🇴, a Network, security, DevOps engineer who's passionate
 <hr/>
 
 ### Find me on:
-  LinkedIn: :link:	https://www.linkedin.com/in/somayyah-mohammed-630a1a177/
-  <br>My personal website and blog: https://www.untangling-the-spiders-web.com
+  <br>YouTube: https://www.youtube.com/channel/UCV91hFH6IHsl6-sxbLmMtfA
+  <br>Twitter: https://twitter.com/mohd_somayyah
+  <br>My personal website and blog: https://techwebunraveled.xyz/)
   <br>TryHackMe: https://tryhackme.com/p/waturiuiuiuizifa
   <br>Glitch: :musical_keyboard: https://glitch.com/@Somayyah
   <br>CodePen: :pen: https://codepen.io/somayyah/
